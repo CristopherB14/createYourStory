@@ -8,7 +8,7 @@ _A romantic interactive novel set in a cozy coffee shop._
 
 ## 🎮 Play Online
 
-👉 [**Play here**](https://CristopherB14.github.io/createYourStory//earlyInTheMorning.html)
+👉 [**Play here**](https://CristopherB14.github.io/createYourStory/earlyInTheMorning.html)
 
 
 
@@ -38,3 +38,15 @@ This story is meant to feel like a **slice-of-life visual novel** with a relaxed
 1. **Download** or **clone** this repository:
    ```bash
    git clone https://github.com/CristopherB14/early-in-the-morning.git
+
+
+
+## 📜 License
+This project’s code is released under the MIT License.  
+Story text and creative content © 2025 — All rights reserved by the author.
+
+
+
+## 🤝 Contributing
+This is a personal project, and outside contributions aren’t currently accepted.  
+Feedback and suggestions are always welcome via Issues.
