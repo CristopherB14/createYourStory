@@ -2,7 +2,7 @@
 
 _A romantic interactive novel set in a cozy coffee shop._
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](docs/earlyInTheMorning.png)
 
 ---
 
