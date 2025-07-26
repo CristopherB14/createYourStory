@@ -8,7 +8,7 @@ _A romantic interactive novel set in a cozy coffee shop._
 
 ## 🎮 Play Online
 
-👉 [**Play here**](https://CristopherB14.github.io/createYourStory/)
+👉 [**Play here**](https://CristopherB14.github.io/createYourStory/index.html)
 
 ---
 
