@@ -4,13 +4,13 @@ _A romantic interactive novel set in a cozy coffee shop._
 
 ![Screenshot](docs/EarlyInTheMorning.png)
 
----
+
 
 ## 🎮 Play Online
 
 👉 [**Play here**](https://CristopherB14.github.io/createYourStory//earlyInTheMorning.html)
 
----
+
 
 ## 📖 About the Project
 
@@ -21,7 +21,7 @@ Through a series of **branching choices**, players can shape Clara’s morning, 
 
 This story is meant to feel like a **slice-of-life visual novel** with a relaxed, romantic tone — an experiment in combining Twine’s simplicity with custom design and light narrative mechanics.
 
----
+
 
 ## 🌟 Features
 
@@ -31,7 +31,7 @@ This story is meant to feel like a **slice-of-life visual novel** with a relaxed
 - 🎨 **Custom CSS styling** – A visual design that feels like a cozy novel page.  
 - 🌱 **Expandable foundation** – The project is structured to allow easy future story updates.
 
----
+
 
 ## 🚀 How to Play Locally
 
